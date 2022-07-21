@@ -1,4 +1,4 @@
-# ubuntuPPA_404
+# ubuntu20_PPA_404
 
 ## First, restore the default focal repositories using these commands:
 
